@@ -24,12 +24,16 @@ localbox = ["jupyter-kernel-gateway"]
 frontend = ["streamlit"]
 image_support = ["Pillow"]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 streamlit_support = ["streamlit^1.24.1"]
 >>>>>>> parent of 0e56aeb (⬆️ fix deps (v0.0.7))
 
 [tool.poetry.group.dev]
 optional = true
+=======
+streamlit_support = ["streamlit^1.24.1"]
+>>>>>>> parent of 0e56aeb (⬆️ fix deps (v0.0.7))
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7"
