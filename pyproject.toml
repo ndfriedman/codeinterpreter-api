@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "codeinterpreterapi"
+authors = ["Shroominic <contact@shroominic.com>"]
 version = "0.0.7"
 description = "CodeInterpreterAPI is an unofficial and open source python interface for the ChatGPT CodeInterpreter."
 
@@ -22,3 +23,5 @@ black = "^23.7.0"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+
